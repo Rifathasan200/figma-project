@@ -192,8 +192,8 @@ nav .logo_round .t {
     }
 
     #banner_part .right .iner_box .left_box_details .position_box {
-        width: 165px;
-        left: 28px;
+        width: 175px;
+       left: 45px;
         border-radius: 15px;
         bottom: 182px;
         padding-bottom: 9px;
@@ -268,7 +268,7 @@ nav .logo_round .t {
         border-bottom-left-radius: 15px;
         margin-top: 60px;
         padding: 15px 15px;
-        margin-left: 65px;
+        margin-left: 100px;
     }
 
     #banner_part .right .iner_box {
