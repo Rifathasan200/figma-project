@@ -515,13 +515,12 @@ nav .logo_round .t {
 #contact_part .details h3 {
 	font-size: 26px;
 	line-height: 35.6px;
-	padding-right: 3px;
+    width: 260px;
 }
 
 #contact_part .details p {
 	font-size: 14px;
-	width: auto;
-	padding-right: 30px;
+	width: 275px;
     line-height: 23.8px;
 }
 
