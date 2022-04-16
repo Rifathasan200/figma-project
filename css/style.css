@@ -231,7 +231,7 @@ nav .start a{
         height: 37px;
         
         border-radius: 50px;
-        margin-top: 49px;
+        margin-top: 45px;
         cursor: pointer;
     }
 
@@ -256,7 +256,7 @@ nav .start a{
 
     #banner_part .right .iner_box .left_box_details .plan_box_2{
         border-radius: 50px;
-        margin-top: 23px;
+        margin-top: 20px;
         cursor: pointer;
         transition: .4s;
         
@@ -288,7 +288,7 @@ nav .start a{
 
     #banner_part .right .iner_box .left_box_details .plan_box_3{
         border-radius: 50px;
-        margin-top: 23px;
+        margin-top: 20px;
         cursor: pointer;
         transition: .4s;
     }
@@ -323,7 +323,7 @@ nav .start a{
         width: 370px;
         background: #ffffff;
         position:absolute;
-        bottom: 220px;
+        bottom: 215px;
         left: 46%;
          border-radius: 20px;
 box-shadow: 0px 0px 10px -1px rgba(232, 217, 217, 0.75);
