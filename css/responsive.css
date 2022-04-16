@@ -4,15 +4,15 @@
         banner part start
   -------------------------------*/
 
-    nav .logo_round img{
-        width: 20px;
-    }
+  nav .logo_round img {
+	width: 25px;
+}
 
-    nav .logo_round .t {
-        top: 15px;
-        left: 5px;
-        width: 9px;
-    }
+nav .logo_round .t {
+	top: 13px;
+	left: 7px;
+	width: 11px;
+}
 
     nav .logo_text img{
         width: 50px;

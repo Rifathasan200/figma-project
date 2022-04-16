@@ -1097,16 +1097,16 @@ background: #FFFFFF;
     background:#8828FF ;
 }
 
-#price_part .item::after{
-    width: 700px;
-    height: 700px;
-    border: 1px solid #FFFFFF;
-    border-radius: 50%;
-    position: absolute;
-    top: -12px;
-    left: -32px;
-    content:"";
-    opacity: .2;
+#price_part .item::after {
+	width: 800px;
+	height: 800px;
+	border: 1px solid #FFFFFF;
+	border-radius: 50%;
+	position: absolute;
+	top: -10px;
+	left: -24px;
+	content: "";
+	opacity: .2;
 }
 
 #price_part .item::before{
