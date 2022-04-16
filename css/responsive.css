@@ -268,7 +268,7 @@ nav .logo_round .t {
         border-bottom-left-radius: 15px;
         margin-top: 60px;
         padding: 15px 15px;
-        margin-left: 100px;
+        margin-left: 101px;
     }
 
     #banner_part .right .iner_box {
@@ -544,7 +544,7 @@ nav .logo_round .t {
 
   #features_part .position_round {
 	width: 80px;
-    top: -3%;
+    top: -5%;
 }
 
 #features_part .position_round .border_round {
@@ -576,13 +576,14 @@ nav .logo_round .t {
   #features_part .text_part h3 {
 	font-size: 26px;
 	line-height: 35.6px;
+    width: 230px;
+    padding-right: 0px;
 }
 
 #features_part .text_part p {
 	font-size: 14px;
 	line-height: 23.8px;
-	width: auto;
-	padding-right: 13px;
+	width: 294px;
 }
 
 #features_part .chat_part .item_1 .img img {
@@ -599,13 +600,14 @@ nav .logo_round .t {
 
 #features_part .chat_part .item_1 .sms p {
 	font-size: 14px;
-	padding: 15px 9px;
+	padding: 15px 20px;
+	width: 275px;
 }
 
 #features_part .chat_part .item_1 .sms .time_part h5 {
 	font-size: 14px;
-	width: 200px;
-    margin-left: 10px;
+	width: 180px;
+	margin-left: 20px;
 }
 
 #features_part .chat_part .item_1 .sms .time_part span {
@@ -646,19 +648,19 @@ nav .logo_round .t {
 
 #features_part .chat_part .item_2 .sms p {
 	font-size: 14px;
-	padding: 15px 13px;
+	padding: 15px 25px;
+	width: 300px;
 }
 
 #features_part .chat_part .item_2 .sms .time_part h5 {
 	font-size: 14px;
-	width: 200px;
-    margin-left: 30px;
+	width: 400px;
 }
 
 #features_part .chat_part .item_2 .sms .time_part span {
 	font-size: 10px;
-	margin-left: 13px;
-	width: 200px;
+	margin-left: 24px;
+	width: 265px;
 }
 
 #features_part .chat_part .item_2 .sms .shape {
@@ -689,14 +691,15 @@ nav .logo_round .t {
 #price_part .title h2 {
 	font-size: 26px;
 	line-height: 30.6px;
-	width: auto;
+	width: 300px;
 }
 
 #price_part .title p {
 	font-size: 14px;
 	line-height: 22.8px;
-	margin-top: 15px;
-	padding: 0 20px;
+	margin: 0 auto;
+	width: 223px;
+    margin-top: 15px;
 }
 
 #price_part .title .title_row {
@@ -718,6 +721,8 @@ nav .logo_round .t {
 
 #price_part .item {
 	margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
 	padding: 0 8px;
 	padding-bottom: 32px;
 }
@@ -741,13 +746,13 @@ nav .logo_round .t {
 #price_part .item .up h5 {
 	font-size: 20px;
 	margin-top: 22px;
-	margin-left: 24px;
+	margin-left: 55px;
 	width: auto;
 }
 
 #price_part .item .up h4 {
 	font-size: 36px;
-	margin-left: 23px;
+	margin-left: 55px;
 }
 
 #price_part .item .up p {
@@ -774,7 +779,7 @@ nav .logo_round .t {
 #price_part .item .down .btn {
 	width: 120px;
 	height: 40px;
-	margin-left: 26px;
+	margin-left: 55px;
 	margin-top: 30px;
 	padding-top: 4px;
 }
