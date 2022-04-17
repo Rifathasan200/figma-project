@@ -1076,27 +1076,33 @@ nav .logo_round .t {
   #founder_part .text_part h3 {
 	font-size: 26px;
 	line-height: 33.6px;
+    width: 290px;
 }
 
 #founder_part .text_part p {
 	font-size: 14px;
 	line-height: 23.8px;
 	padding-right: 0px;
+    margin-top: 20px;
+    width: 300px;
 }
 
 #founder_part .item_one {
-	
+	padding: 20px 35px;
 	margin: 25px 10px;
 }
 
 #founder_part .item_one p {
 	font-size: 14px;
 	line-height: 24.8px;
-    padding: 40px 15px 18px 15px;
+    width: 260px;
+    padding: 0;
 }
 
 #founder_part .item_one .img {
-	margin-left: 16px;
+	margin-left: 0px;
+    margin-top: 20px;
+    padding-bottom: 5px;
 }
 
 #founder_part .item_one .img img {
@@ -1115,18 +1121,21 @@ nav .logo_round .t {
 #founder_part .item_two {
 	width: auto;
     border-radius: 20px;
-	margin: 5px 10px;
+	padding: 20px 35px;
+	margin: 15px 10px;
 }
 
 #founder_part .item_two p {
-    width: auto;
-	font-size: 14px;
+    font-size: 14px;
 	line-height: 24.8px;
-    padding: 40px 15px 18px 15px;
+    width: 260px;
+    padding: 0;
 }
 
 #founder_part .item_two .img {
-	margin-left: 16px;
+	margin-left: 0px;
+    margin-top: 20px;
+    padding-bottom: 5px;
 }
 
 #founder_part .item_two .img img {
