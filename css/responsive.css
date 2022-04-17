@@ -268,7 +268,7 @@ nav .logo_round .t {
         border-bottom-left-radius: 15px;
         margin-top: 60px;
         padding: 15px 15px;
-        margin-left: 99px;
+        margin-left: 97px;
     }
 
     #banner_part .right .iner_box {
@@ -928,7 +928,7 @@ nav .logo_round .t {
 #work_part .item_there .item_right h5 {
 	font-size: 17px;
 	line-height: 24px;
-	margin-top: 15px;
+	margin-top: 30px;
 	width: 162px;
 }
 
@@ -939,23 +939,23 @@ nav .logo_round .t {
     line-height: 21.4px;
 }
 
+#work_part .arrow_part {
+	bottom: -515px;
+	right: 20px;
+}
+
 
 #work_part .arrow_part .left {
     width: 20px;
     height: 20px;
     line-height: 20px;
     font-size: 10px;
-	left: 230px;
-    bottom: -485px;
 }
 
 #work_part .arrow_part .right {
     width: 20px;
     height: 20px;
     line-height: 20px;
-	right: 0px;
-    bottom: -485px;
-    font-size: 10px;
 }
 
 

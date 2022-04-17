@@ -1449,10 +1449,10 @@ background: #FFFFFF;
     padding-right: 1px;
 }
 
-#work_part .arrow_part{
-    position: absolute;
-    top:0;
-    left:0;
+#work_part .arrow_part {
+	position: absolute;
+	bottom: -50px;
+	right: -700px;
 }
 
 #work_part .arrow_part .left{
@@ -1464,11 +1464,8 @@ background: #FFFFFF;
     text-align: center;
     font-size: 13px;
     color: #FFFFFF;
-    /* position: absolute;
-    bottom: -50px;
-    left: 1045px; */
-    transform: translatex(50%);
     transition: .4s;
+    margin-right: 20px;
 }
 
 #work_part .arrow_part .left:hover{
@@ -1485,9 +1482,6 @@ background: #FFFFFF;
     text-align: center;
     font-size: 13px;
     color: #FFFFFF;
-    /* position: absolute;
-    bottom: -50px;
-    right: -680px; */
     transition: .4s;
 }
 
