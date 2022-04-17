@@ -1157,16 +1157,18 @@ nav .logo_round .t {
 
   #footer_part{
     padding-bottom: 25px;
-      position: relative;
+    position: relative;
 
   }
 
   #footer_part .details_part .information_part{
     margin-bottom: 50px;
+    
   }
 
   #footer_part .details_part .information_part .footer_logo_part {
 	margin-top: 50px;
+    
 }
 
 #footer_part .details_part .information_part .footer_logo_part img{
@@ -1182,8 +1184,9 @@ nav .logo_round .t {
 #footer_part .details_part .information_part p {
 	font-size: 14px;
 	line-height: 24.8px;
-	padding-right: 30px;
-    width: auto;
+	padding-right: 0px;
+    width: 220px;
+    position: relative;
 }
 
 
@@ -1240,17 +1243,20 @@ nav .logo_round .t {
 #footer_part .details_part .text_part ul li h5 {
 	margin-top: 0px;
 	font-size: 16px;
+    
 }
 
 #footer_part .details_part .text_part ul li {
 	font-size: 14px;
 	line-height: 20.8px;
+
 }
 
 #footer_part .details_part .text_part .position_part {
 	position: absolute;
 	bottom: 211px;
-	right: -135px;
+	right: -220px;
+    width: 160px;
 }
 
 
@@ -1261,7 +1267,7 @@ nav .logo_round .t {
 #footer_part .copyright_part span {
 	font-size: 14px;
 	position: absolute;
-	top: 230px;
+	top: 245px;
 	left: 10px;
 }
 
@@ -1272,8 +1278,9 @@ nav .logo_round .t {
 
 #footer_part .copyright_part .help {
 	position: absolute;
-	top: 492px;
-	right: 16px;
+	bottom: 30%;
+	left: 0;
+	padding-left: 231px;
 }
 
 
