@@ -502,13 +502,17 @@ nav .logo_round .t {
        contact part start
   -------------------------------*/
 
+  #contact_part .img {
+	margin-top: 20px;
+}
+
   #contact_part .img img {
 	margin-left: 0px;
 	width: 100%;
 }
 
 #contact_part .details {
-	margin-top: 0px;
+	margin-top: 20px;
 	padding-left: 0px;
 }
 
@@ -544,7 +548,7 @@ nav .logo_round .t {
 
   #features_part .position_round {
 	width: 80px;
-    top: -5%;
+    top: -13%;
 }
 
 #features_part .position_round .border_round {
@@ -571,6 +575,10 @@ nav .logo_round .t {
 
   #features_part .rifat_last{
     width: 85%;
+}
+
+#features_part .text_part {
+	margin-top: 30px;
 }
 
   #features_part .text_part h3 {
