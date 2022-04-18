@@ -27,6 +27,13 @@ nav .logo_round .t {
         box-shadow: none;
     }
 
+    .navbar-collapse {
+        padding-bottom: 20px;
+        background: #000;
+        
+    }
+
+
     nav .navbar-nav {
         margin-right: 0px;
         text-align: center;
@@ -37,6 +44,7 @@ nav .logo_round .t {
         margin-right: 0px;
         font-size: 16px;
         line-height: 12.97px;
+        color:#ffffff !important;
     }
 
     nav .login{
@@ -1180,11 +1188,11 @@ nav .logo_round .t {
 }
 
 #footer_part .details_part .information_part .footer_logo_part img{
-	width: 11%;
+	width: 7%;
 }
 
 #footer_part .details_part .information_part .footer_logo_part .text_img {
-	width: 27%;
+	width: 20%;
 	margin-top: 3px;
 	margin-left: 7px;
 }
@@ -1275,7 +1283,7 @@ nav .logo_round .t {
 #footer_part .copyright_part span {
 	font-size: 14px;
 	position: absolute;
-	top: 245px;
+	top: 230px;
 	left: 10px;
 }
 

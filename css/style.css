@@ -99,6 +99,19 @@ nav .start a{
     color: #8828FF;
 }
 
+ .scroll{
+    width: 100%;
+    background:#000;
+    position:fixed !important;
+    top:-31px;
+    left: 0;
+    z-index: 9999;
+}
+
+.scroll .nav-item .nav-link{
+    color: #ffffff !important;
+}
+
 /* =====================
    nav part end
 ======================== */
